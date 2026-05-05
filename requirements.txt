@@ -1,0 +1,27 @@
+# --- Core Data Science & Scraping ---
+jupyterlab
+requests
+beautifulsoup4
+pandas
+lxml
+
+# --- Modern & AI-Powered Scraping (2026 Stack) ---
+# Firecrawl v4.x - AI-powered structured extraction
+firecrawl-py
+
+# Crawl4AI - Open-source LLM-friendly web crawler
+crawl4ai
+
+# Playwright - Browser automation for JavaScript-heavy sites
+playwright
+
+# --- Agentic Scraping ---
+# browser-use - AI agents that navigate the web
+browser-use
+langchain
+langchain-openai
+
+# --- Utilities ---
+python-dotenv
+pydantic
+aiohttp
